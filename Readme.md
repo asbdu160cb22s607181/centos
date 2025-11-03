@@ -24,11 +24,10 @@ py -m pip install pywin32
 ![alt text](image-22.png)
 ![alt text](image-11.png)
 ![alt text](image-23.png)
-## start the virtualbox 
-![alt text](image-4.png)
+
 ## change the network setting
 ### setting / export / network / port 
-![alt text](image-5.png)
+![alt text](image-4.png)
 ![alt text](image-6.png)
 ![alt text](image-7.png)
 ### local host ip 
@@ -39,6 +38,7 @@ py -m pip install pywin32
 ```sh
 8080
 ```
+## start the virtualbox 
 ![alt text](image-5.png)
 ## usernme
 ```sh

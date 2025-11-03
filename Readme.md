@@ -8,18 +8,18 @@
 ![alt text](image-15.png)
 ![alt text](image-16.png)
 ![alt text](image-17.png)
-## missing nu vatha 
+## missing 
 ```sh
 py -m pip install pywin32
 ```
 ![alt text](image-18.png)
 ![alt text](image-19.png)
 ![alt text](image-20.png)
-## download the centos (12.2 handout (3) )
+## download the centos (12.2 handout (3))
 ### Download Centos from Url:https://drive.google.com/file/d/1QXdagFhT5kchGL-iLlDSkcN2RqIskLmX/view or Url:https://www.centos.org/download/
 ![alt text](image-2.png)
 ![alt text](image-3.png)
-## extrat the virtualbox
+## extract the virtualbox
 ![alt text](image-21.png)
 ![alt text](image-22.png)
 ![alt text](image-11.png)
@@ -40,6 +40,7 @@ py -m pip install pywin32
 ```
 ## start the virtualbox 
 ![alt text](image-5.png)
+![alt text](image-25.png)
 ## usernme
 ```sh
 centos
@@ -60,7 +61,7 @@ centos
 ```sh
 startlab1
 ```
-## httpd instal atomaticaly
+## httpd will install automaticaly
 ```sh
 sudo systemctl start httpd
 ```
